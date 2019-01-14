@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+}
+
+thead tr>th {
+    height: 40px;
+    background: #ddd;
+    color: #333;
+    font-size: 28px;
+}
+
+th {
+    text-align: left;
+    background: crimson;
+    color: #fff;
+    padding: 10px;
+    height: 30px;
+}
+
+.pdtrow {
+    background: #efefef;
+    padding: 10px;
+    height: 50px;
+}
